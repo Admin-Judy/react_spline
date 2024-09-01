@@ -11,9 +11,9 @@ const IndexPage = () => {
   return (
     <div>
       <h1>ACC Academy Demo</h1>
-      <h2>바보바보바보바보</h2>
+      <h2>예시입니다^^</h2>
       <div style={{ width: '100%', height: '500px' }}>
-        <Spline scene="https://prod.spline.design/eeyIm5Acs8LdQQiX/scene.splinecode" />
+        <Spline scene="https://prod.spline.design/VphbfnCU2NPwIOg1/scene.splinecode" />
       </div>
     </div>
   );
